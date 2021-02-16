@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Count</title>
+	<script src="https://d3js.org/d3.v4.js"></script>
+</head>
+<body>
+    <svg id="rect" width="400" height="400"></svg>
+	<script type="text/javascript">
+		var data = [
+{
+    id: "1",
+    name: "Name1",
+    color: "Color1"
+},
+{
+    id: "2",
+    name: "Name2",
+    color: "Color2"
+},
+{
+    id: "1",
+    name: "Name3",
+    color: "Color3"
+}
+];
+var svg.selectAll('#rect').data(data).enter()
+    .append('rect')
+        .attr('x', 800)
+        .attr('y', 800)
+        .attr('height', 10)
+        .attr('width', 5)
+        .attr('fill', 'red');
+
+
+var groupId = [];
+var maxId = 0;
+for (var i = 0; i < data.length; i++){
+    var item = data[i];
+
+    if (!groupId[item.id]){
+        groupId[item.id] = [];
+    }
+
+    groupId[item.id].push({name: item.name, color:item.color});
+
+    if (maxId < item.id){
+        maxId = item.id;
+    }
+};
+
+</script>
+
+</body>
+</html>

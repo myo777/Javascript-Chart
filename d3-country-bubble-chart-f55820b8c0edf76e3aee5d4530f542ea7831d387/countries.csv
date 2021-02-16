@@ -1,0 +1,224 @@
+CountryName,CountryCode,ContinentCode,CenterLongitude,CenterLatitude,Population
+Albania,AL,Director,20.0,41.0,2896680
+Algeria,DZ,Senoior Manager,3.0,28.0,39666520
+American Samoa,Senior Consultant,Partner,-170.5,-14.32,55540
+Andorra,AD,Director,1.5,42.5,70470
+Angola,AO,Senoior Manager,18.5,-12.5,25021970
+Anguilla,AI,Consultant,-63.05,18.22,14610
+Antigua and Barbuda,AG,Consultant,-61.8,17.05,91820
+Argentina,AR,Manager,-64.0,-34.0,43416760
+Armenia,AM,Senior Consultant,45.0,40.0,3017710
+Aruba,AW,Consultant,-69.97,12.5,103890
+Australia,AU,Partner,135.0,-25.0,23968970
+Austria,AT,Director,13.33,47.33,8544590
+Azerbaijan,AZ,Senior Consultant,47.5,40.5,9753970
+Bahrain,BH,Senior Consultant,50.5,26.0,1377240
+Bangladesh,BD,Senior Consultant,90.0,24.0,160995640
+Barbados,BB,Consultant,-59.53,13.17,284220
+Belarus,BY,Director,28.0,53.0,9495830
+Belgium,BE,Director,4.0,50.83,11299190
+Belize,BZ,Consultant,-88.75,17.25,359290
+Benin,BJ,Senoior Manager,2.25,9.5,10879830
+Bermuda,BM,Consultant,-64.75,32.33,62000
+Bhutan,BT,Senior Consultant,90.5,27.5,774830
+Bolivia,BO,Manager,-65.0,-17.0,10724710
+Bosnia and Herzegovina,BA,Director,17.83,44.25,3810420
+Botswana,BW,Senoior Manager,24.0,-22.0,2262490
+Brazil,BR,Manager,-55.0,-10.0,207847530
+Brunei Darussalam,BN,Senior Consultant,114.67,4.5,423190
+Bulgaria,BG,Director,25.0,43.0,7149790
+Burkina Faso,BF,Senoior Manager,-2.0,13.0,18105570
+Burundi,BI,Senoior Manager,30.0,-3.5,11178920
+Cambodia,KH,Senior Consultant,105.0,13.0,15577900
+Cameroon,CM,Senoior Manager,12.0,6.0,23344180
+Canada,CA,Consultant,-96.0,60.0,35939930
+Cape Verde,CV,Senoior Manager,-24.0,16.0,520500
+Cayman Islands,KY,Consultant,-80.67,19.5,59970
+Central African Republic,CF,Senoior Manager,21.0,7.0,4900270
+Chad,TD,Senoior Manager,19.0,15.0,14037470
+Chile,CL,Manager,-71.0,-30.0,17948140
+China,CN,Senior Consultant,105.0,35.0,1376048940
+Colombia,CO,Manager,-72.0,4.0,48228700
+Comoros,KM,Senoior Manager,44.25,-12.17,788470
+Congo,CG,Senoior Manager,15.0,-1.0,4620330
+"Congo, Democratic Republic",CD,Senoior Manager,23.42,-3.52,77266810
+Cook Islands,CK,Partner,-158.0,-20.0,20830
+Costa Rica,CR,Consultant,-84.0,10.0,4807850
+"Cote D""Ivoire",CI,Senoior Manager,-5.0,8.0,22701560
+Croatia,HR,Director,15.5,45.17,4240320
+Cuba,CU,Consultant,-80.0,21.5,11389560
+Cyprus,CY,Senior Consultant,33.0,35.0,1165300
+Czech Republic,CZ,Director,15.0,49.75,10543190
+Denmark,DK,Director,10.0,56.0,5669080
+Djibouti,DJ,Senoior Manager,42.5,11.5,887860
+Dominica,DM,Consultant,-61.33,15.5,72680
+Dominican Republic,DO,Consultant,-70.67,19.0,10528390
+Ecuador,EC,Manager,-77.5,-2.0,16144360
+Egypt,EG,Senoior Manager,30.0,27.0,91508080
+El Salvador,SV,Consultant,-88.92,13.83,6126580
+Equatorial Guinea,GQ,Senoior Manager,10.0,2.0,845060
+Eritrea,ER,Senoior Manager,39.0,15.0,5227790
+Estonia,EE,Director,26.0,59.0,1312560
+Ethiopia,ET,Senoior Manager,39.0,8.0,99390750
+Falkland Islands (Malvinas),FK,Manager,-59.0,-51.75,2900
+Faroe Islands,FO,Director,-7.0,62.0,48200
+Fiji,FJ,Partner,178.0,-18.0,892150
+Finland,FI,Director,26.0,64.0,5503460
+France,FR,Director,2.0,46.0,64395350
+French Guiana,GF,Manager,-53.0,4.0,268610
+French Polynesia,PF,Partner,-140.0,-15.0,282760
+Gabon,GA,Senoior Manager,11.75,-1.0,1725290
+Gambia,GM,Senoior Manager,-15.5,13.5,1990920
+Georgia,GE,Senior Consultant,43.5,42.0,3999810
+Germany,DE,Director,10.5,51.5,80688550
+Ghana,GH,Senoior Manager,-2.0,8.0,27409890
+Gibraltar,GI,Director,-5.35,36.13,32220
+Greece,GR,Director,22.0,39.0,10954620
+Greenland,GL,Consultant,-40.0,72.0,56190
+Grenada,GD,Consultant,-61.67,12.12,106830
+Guadeloupe,GP,Consultant,-61.58,16.25,468450
+Guam,GU,Partner,144.83,13.47,169890
+Guatemala,GT,Consultant,-90.25,15.5,16342900
+Guinea,GN,Senoior Manager,-10.0,11.0,12608590
+Guinea-Bissau,GW,Senoior Manager,-15.0,12.0,1844330
+Guyana,GY,Manager,-59.0,5.0,767090
+Haiti,HT,Consultant,-72.42,19.0,10711070
+Holy See (Vatican City State),VA,Director,12.45,41.9,800
+Honduras,HN,Consultant,-86.5,15.0,8075060
+Hong Kong,HK,Senior Consultant,114.17,22.25,7287980
+Hungary,HU,Director,20.0,47.0,9855020
+Iceland,IS,Director,-18.0,65.0,329430
+India,IN,Senior Consultant,77.0,20.0,1311050530
+Indonesia,ID,Senior Consultant,120.0,-5.0,257563820
+Iran,IR,Senior Consultant,53.0,32.0,79109270
+Iraq,IQ,Senior Consultant,44.0,33.0,36423400
+Ireland,IE,Director,-8.0,53.0,4688470
+Isle of Man,IM,Director,-4.55,54.23,87780
+Israel,IL,Senior Consultant,34.75,31.5,8064040
+Italy,IT,Director,12.83,42.83,59797690
+Jamaica,JM,Consultant,-77.5,18.25,2793340
+Japan,JP,Senior Consultant,138.0,36.0,126573480
+Jordan,JO,Senior Consultant,36.0,31.0,7594550
+Kazakhstan,KZ,Senior Consultant,68.0,48.0,17625230
+Kenya,KE,Senoior Manager,38.0,1.0,46050300
+Kiribati,KI,Partner,-170.0,-5.0,112420
+Korea (North),KP,Senior Consultant,127.0,40.0,25155320
+Korea (South),KR,Senior Consultant,127.5,37.0,50293440
+Kuwait,KW,Senior Consultant,47.75,29.5,3892120
+Kyrgyzstan,KG,Senior Consultant,75.0,41.0,5939960
+Laos,LA,Senior Consultant,105.0,18.0,6802020
+Latvia,LV,Director,25.0,57.0,1970500
+Lebanon,LB,Senior Consultant,35.83,33.83,5850740
+Lesotho,LS,Senoior Manager,28.25,-29.5,2135020
+Liberia,LR,Senoior Manager,-9.5,6.5,4503440
+Libyan Arab Jamahiriya,LY,Senoior Manager,17.0,25.0,6278440
+Liechtenstein,LI,Director,9.53,47.17,37530
+Lithuania,LT,Director,24.0,56.0,2878410
+Luxembourg,LU,Director,6.17,49.75,567110
+Macao,MO,Senior Consultant,113.0,22.0,587610
+Macedonia,MK,Director,22.0,41.83,2078449
+Madagascar,MG,Senoior Manager,47.0,-20.0,24235390
+Malawi,MW,Senoior Manager,34.0,-13.5,17215230
+Malaysia,MY,Senior Consultant,101.97,4.22,30331010
+Maldives,MV,Senior Consultant,73.0,3.2,363660
+Mali,ML,Senoior Manager,-4.0,17.0,17599690
+Malta,MT,Director,14.42,35.92,418670
+Marshall Islands,MH,Partner,168.0,11.0,52990
+Martinique,MQ,Consultant,-61.0,14.67,396430
+Mauritania,MR,Senoior Manager,-12.0,20.0,4067560
+Mauritius,MU,Senoior Manager,57.58,-20.3,1273210
+Mayotte,YT,Senoior Manager,45.17,-12.83,240020
+Mexico,MX,Consultant,-102.0,23.0,127017220
+Micronesia,FM,Partner,152.0,5.0,104460
+Moldova,MD,Director,29.0,47.0,4068900
+Monaco,MC,Director,7.42,43.73,37730
+Mongolia,MN,Senior Consultant,105.0,46.0,2959130
+Montenegro,ME,Director,19.2,42.8,625780
+Montserrat,MS,Consultant,-62.2,16.75,5130
+Morocco,MA,Senoior Manager,-5.0,32.0,34377510
+Mozambique,MZ,Senoior Manager,35.0,-18.25,27977860
+Myanmar,MM,Senior Consultant,98.0,22.0,53897150
+Namibia,Consultant,Senoior Manager,17.0,-22.0,2458830
+Nauru,NR,Partner,166.92,-0.53,10220
+Nepal,NP,Senior Consultant,84.0,28.0,28513700
+Netherlands,NL,Director,5.75,52.5,16924930
+New Caledonia,NC,Partner,165.5,-21.5,263120
+New Zealand,NZ,Partner,174.0,-42.0,4528530
+Nicaragua,NI,Consultant,-85.0,13.0,6082030
+Niger,NE,Senoior Manager,8.0,16.0,19899120
+Nigeria,NG,Senoior Manager,8.0,10.0,182201960
+Niue,NU,Partner,-169.87,-19.03,1610
+Northern Mariana Islands,MP,Partner,145.67,15.12,55070
+Norway,NO,Director,10.0,62.0,5210970
+Oman,OM,Senior Consultant,57.0,21.0,4490540
+Pakistan,PK,Senior Consultant,70.0,30.0,188924870
+Palau,PW,Partner,134.0,6.0,21290
+Panama,PA,Consultant,-80.0,9.0,3929140
+Papua New Guinea,PG,Partner,147.0,-6.0,7619320
+Paraguay,PY,Manager,-58.0,-23.0,6639120
+Peru,PE,Manager,-76.0,-10.0,31376670
+Philippines,PH,Senior Consultant,122.0,13.0,100699400
+Poland,PL,Director,20.0,52.0,38611790
+Portugal,PT,Director,-8.0,39.5,10349800
+Puerto Rico,PR,Consultant,-66.55,18.23,3683240
+Qatar,QA,Senior Consultant,51.25,25.5,2235360
+Reunion,RE,Senoior Manager,55.6,-21.1,861150
+Romania,RO,Director,25.0,46.0,19511320
+Russian Federation,RU,Director,47.0,60.0,143456920
+Rwanda,RW,Senoior Manager,30.0,-2.0,11609670
+Saint Helena,SH,Senoior Manager,-5.7,-15.95,3960
+Saint Kitts and Nevis,KN,Consultant,-62.75,17.33,55570
+Saint Lucia,LC,Consultant,-60.97,13.88,185000
+Saint Pierre and Miquelon,PM,Consultant,-56.33,46.83,6290
+Saint Vincent and the Grenadines,VC,Consultant,-61.2,13.08,109460
+Samoa,WS,Partner,-172.33,-13.58,193230
+San Marino,Senoior Manager,Director,12.42,43.93,31780
+Sao Tome and Principe,ST,Senoior Manager,7.0,1.0,190340
+Saudi Arabia,Manager,Senior Consultant,45.0,25.0,31540370
+Senegal,SN,Senoior Manager,-14.0,14.0,15129270
+Serbia,RS,Director,21.0,43.8,8850980
+Seychelles,SC,Senoior Manager,55.67,-4.58,96470
+Sierra Leone,SL,Senoior Manager,-11.5,8.5,6453180
+Singapore,SG,Senior Consultant,103.8,1.37,5603740
+Slovakia,SK,Director,19.5,48.67,5426260
+Slovenia,SI,Director,15.17,46.25,2067530
+Solomon Islands,SB,Partner,159.0,-8.0,583590
+Somalia,SO,Senoior Manager,48.0,6.0,10787100
+South Africa,ZA,Senoior Manager,26.0,-30.0,54490410
+Spain,ES,Director,-4.0,40.0,46121700
+Sri Lanka,LK,Senior Consultant,81.0,7.0,20715010
+Suriname,SR,Manager,-56.0,4.0,542980
+Swaziland,SZ,Senoior Manager,31.5,-26.5,1286970
+Sweden,SE,Director,15.0,62.0,9779430
+Switzerland,CH,Director,8.0,47.0,8298660
+Syrian Arab Republic,SY,Senior Consultant,38.0,35.0,18502410
+"Taiwan, Province of China",TW,Senior Consultant,121.0,23.5,23381040
+Tajikistan,TJ,Senior Consultant,71.0,39.0,8481860
+Tanzania,TZ,Senoior Manager,35.0,-6.0,53470420
+Thailand,TH,Senior Consultant,100.0,15.0,67959360
+Timor-Leste,TL,Senior Consultant,125.72,-8.87,1184770
+Togo,TG,Senoior Manager,1.17,8.0,7304580
+Tokelau,TK,Partner,-171.75,-9.0,1250
+Tonga,TO,Partner,-175.0,-20.0,106170
+Trinidad and Tobago,TT,Consultant,-61.0,11.0,1360090
+Tunisia,TN,Senoior Manager,9.0,34.0,11253550
+Turkey,TR,Senior Consultant,35.0,39.0,78665830
+Turkmenistan,TM,Senior Consultant,60.0,40.0,5373500
+Turks and Caicos Islands,TC,Consultant,-71.58,21.73,34340
+Tuvalu,TV,Partner,178.0,-8.0,9920
+Uganda,UG,Senoior Manager,33.0,2.0,39032380
+Ukraine,UA,Director,32.0,49.0,44823770
+United Arab Emirates,AE,Senior Consultant,54.0,24.0,9156960
+United Kingdom,GB,Director,-4.5,54.0,64715810
+United States,US,Consultant,-98.0,38.0,321773630
+United States Minor Outlying Islands,UM,Partner,-175.0,10.0,106290
+Uruguay,UY,Manager,-56.0,-33.0,3431560
+Uzbekistan,UZ,Senior Consultant,64.0,41.0,29893490
+Vanuatu,VU,Partner,167.0,-16.0,264650
+Venezuela,VE,Manager,-66.0,8.0,31108080
+Viet Nam,VN,Senior Consultant,106.0,16.0,93447600
+"Virgin Islands, British",VG,Consultant,-64.5,18.5,30120
+Wallis and Futuna,WF,Partner,-177.0,-14.0,13150
+Yemen,YE,Senior Consultant,47.5,15.5,26832220
+Zambia,ZM,Senoior Manager,30.0,-15.0,16211770
+Zimbabwe,ZW,Senoior Manager,29.0,-19.0,15602750

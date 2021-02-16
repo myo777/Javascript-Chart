@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Export file Using mychart</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+    <script src="https://www.amcharts.com/lib/3/serial.js"></script>
+    <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+    <script src="https://www.amcharts.com/lib/3/plugins/export/export.js"></script>
+</head>
+<body>
+	<input type="button" value="JSON" onclick="exportJSON();" />
+	<input type="button" value="CSV" onclick="exportCSV();" />
+	<input type="button" value="XLSX" onclick="exportXLSX();" />
+	<input type="button" value="PRINT" onclick="printChart();" />
+	<div id="chart1" class="chartdiv"></div>
+
+	<script src="index.js"></script>
+</body>
+</html>

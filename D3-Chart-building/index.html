@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>D3 Chart</title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<h1>Dash Board create by using D3 Javascript</h1>
+	<svg height="400" width="450">
+        <path id="lineAB" d="M 100 350 l 150 -300" stroke="red" stroke-width="3" fill="none" />
+        <path id="lineBC" d="M 250 50 l 150 300" stroke="red" stroke-width="3" fill="none" />
+        <path d="M 175 200 l 150 0" stroke="green" stroke-width="3" fill="none" />
+		<path d="M 100 350 q 150 -300 300 0" stroke="blue" stroke-width="5" fill="none" />
+		  <!-- Mark relevant points -->
+		  <g stroke="black" stroke-width="3" fill="black">
+		    <circle id="pointA" cx="100" cy="350" r="3" />
+		    <circle id="pointB" cx="250" cy="50" r="3" />
+		    <circle id="pointC" cx="400" cy="350" r="3" />
+		    <circle id="pointD" cx="250" cy="200" r="3" />
+		  </g>
+		  <!-- Label the points -->
+		  <g font-size="30" font-family="sans-serif" fill="black" stroke="none"
+		  text-anchor="middle">
+		    <text x="100" y="350" dx="-30">A</text>
+		    <text x="250" y="50" dy="-10">B</text>
+		    <text x="400" y="350" dx="30">C</text>
+		     <text x="250" y="200" dy="-5">D</text>
+		  </g>
+		</svg>
+		<svg class="svg2" height="700" width="1000">
+			<rect x="150" y="200" width="550" height="180" style="fill:silver;stroke:white;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+			<path id="line1" d="M 150 340 l 550 0" stroke="white" stroke-width="5" fill="none" />
+            <path id="line2" d="M 150 295 l 550 0" stroke="white" stroke-width="5" fill="none" />
+            <path id="line3" d="M 150 250 l 550 0" stroke="white" stroke-width="5" fill="none" />
+            <line x1="200" y1="200" x2="200" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="250" y1="200" x2="250" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="300" y1="200" x2="300" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="350" y1="200" x2="350" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="400" y1="200" x2="400" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="450" y1="200" x2="450" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="500" y1="200" x2="500" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="550" y1="200" x2="550" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="600" y1="200" x2="600" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="650" y1="200" x2="650" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+
+            <line x1="150" y1="200" x2="250" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="350" y1="200" x2="250" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="350" y1="200" x2="450" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="550" y1="200" x2="450" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="550" y1="200" x2="650" y2="380" style="stroke:rgb(255,250,250);stroke-width:5" />
+
+            <path id="roof1" d="M 250 140 l 550 0" stroke="white" stroke-width="5" fill="none" />
+            <line x1="250" y1="140" x2="150" y2="200" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="800" y1="140" x2="700" y2="200" style="stroke:rgb(255,250,250);stroke-width:5" />
+
+
+            <line x1="800" y1="320" x2="700" y2="382" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="800" y1="280" x2="700" y2="340" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="800" y1="235" x2="700" y2="295" style="stroke:rgb(255,250,250);stroke-width:5" />
+            <line x1="800" y1="185" x2="700" y2="250" style="stroke:rgb(255,250,250);stroke-width:5" />
+            
+
+            <line x1="800" y1="140" x2="800" y2="321" style="stroke:rgb(255,250,250);stroke-width:5" />
+
+            <line x1="170" y1="380" x2="250" y2="580" style="stroke:white;stroke-width:10" />
+            <line x1="270" y1="380" x2="250" y2="580" style="stroke:white;stroke-width:10" />
+            
+            <rect x="350" y="450" width="500" height="150" style="fill:lime;stroke:white;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+            <rect x="200" y="550" width="100" height="50" style="fill:lime;stroke:white;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+             <rect x="450" y="380" width="160" height="70" style="fill:lime;stroke:white;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+           
+           
+           
+           
+           
+		</svg>
+				
+		
+        <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+        
+        <ellipse cx="200" cy="80" rx="100" ry="50" style="fill:yellow;stroke:purple;stroke-width:2" />
+   
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="index.js"></script>
+</body>
+</html>

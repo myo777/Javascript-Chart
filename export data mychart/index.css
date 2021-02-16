@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+body {
+  font-family: Lato;
+}
+
+.chartdiv {
+    width       : 800px;
+    height      : 220px;
+}
